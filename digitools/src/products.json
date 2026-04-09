@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "ResumeAI Pro",
+    "description": "Build ATS-optimized resumes with AI suggestions and professional templates in minutes.",
+    "price": 29,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["100+ templates", "ATS optimization", "Export to PDF", "AI content suggestions"],
+    "icon": "📄"
+  },
+  {
+    "id": 2,
+    "name": "LogoForge",
+    "description": "Create stunning brand logos with AI-powered design tools. No design skills required.",
+    "price": 49,
+    "period": "one-time",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["500+ logo styles", "Vector export", "Brand kit", "Commercial license"],
+    "icon": "🎨"
+  },
+  {
+    "id": 3,
+    "name": "VideoScript AI",
+    "description": "Generate engaging video scripts for YouTube, TikTok and ads with one click.",
+    "price": 19,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "bestseller",
+    "features": ["Multi-platform scripts", "Tone customization", "SEO keywords", "Unlimited exports"],
+    "icon": "🎬"
+  },
+  {
+    "id": 4,
+    "name": "SocialSync",
+    "description": "Schedule and auto-generate social media content across all major platforms effortlessly.",
+    "price": 39,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["10 platforms", "Auto-scheduling", "Analytics dashboard", "AI captions"],
+    "icon": "📱"
+  },
+  {
+    "id": 5,
+    "name": "DataViz Studio",
+    "description": "Transform raw data into beautiful interactive charts and infographics instantly.",
+    "price": 199,
+    "period": "yearly",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["50+ chart types", "Real-time data sync", "Embed anywhere", "Team collaboration"],
+    "icon": "📊"
+  },
+  {
+    "id": 6,
+    "name": "CopyGenius",
+    "description": "Write converting sales copy, email campaigns and ad content powered by GPT-4.",
+    "price": 24,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "bestseller",
+    "features": ["Unlimited copy", "30+ languages", "Plagiarism check", "SEO optimizer"],
+    "icon": "✍️"
+  },
+  {
+    "id": 7,
+    "name": "MeetingBot",
+    "description": "Auto-record, transcribe and summarize your meetings with action items extracted.",
+    "price": 15,
+    "period": "monthly",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["AI transcription", "Action items", "Slack integration", "Unlimited recordings"],
+    "icon": "🤝"
+  },
+  {
+    "id": 8,
+    "name": "CodeReview AI",
+    "description": "Get instant AI-powered code reviews, bug detection and optimization suggestions.",
+    "price": 299,
+    "period": "yearly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["25+ languages", "Security scan", "PR integration", "Team dashboard"],
+    "icon": "💻"
+  }
+]
